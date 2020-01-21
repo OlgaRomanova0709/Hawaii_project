@@ -1,9 +1,9 @@
 # Explore-Hawaii
-To Develop an Interactive Travel Guide Website to explore the places and plan vacation in Hawaii.
+Developed an interactive travel guide Website to explore places and plan vacation in Hawaii.
 
 # Team Members
-1) Saranya 
-2) Madhavi
+1) Madhavi
+2) Saranya
 3) Olga
 4) Vaishnavi
 

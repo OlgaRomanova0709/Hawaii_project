@@ -1,12 +1,6 @@
 # Explore-Hawaii
 Developed an interactive travel guide Website to explore places and plan vacation in Hawaii.
 
-# Team Members
-1) Madhavi
-2) Saranya
-3) Olga
-4) Vaishnavi
-
 ## <ins> Final Deployed Application Link </ins>
 https://explore-hawaii.herokuapp.com/
 
